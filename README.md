@@ -1,19 +1,11 @@
-# 🌐 Webpage Ideas Website(Simple Local Server)
+]# 🌐 Webpage Ideas – Pakistani Brand-Inspired Static Website (Local Server)
 
-A basic Node.js project that serves a static webpage for generating webpage ideas.  
-No backend logic — just a local server to serve your HTML/CSS files.
+A simple Node.js project that serves a static webpage inspired by the **Pakistani fashion brand “Ideas by Gul Ahmed”**.  
+This project focuses purely on frontend design — with no backend or database. It runs locally using a basic Node.js server (`index.js`).
 
-## Features
+## 🛠 Features
 
-- Static frontend with HTML & CSS  
-- Simple Node.js server using `index.js`  
-- Runs locally on http://localhost:3000/
-
-## How to Run
-
-```bash
-git clone https://github.com/areebamemon/webpage-ideas.git
-cd webpage-ideas
-npm install
-node index.js
-Then open your browser at http://localhost:3000/
+- 💅 Clean and static frontend using **HTML5** & **CSS3**
+- 🖥 Local Node.js server (no backend logic)
+- 🎨 Webpage layout inspired by *Ideas* (Pakistani fashion brand)
+- 🚀 Run locally at [http://localhost:3000](http://localhost:3000)
